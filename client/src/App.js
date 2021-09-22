@@ -11,8 +11,6 @@ import Bookmarks from "./pages/Bookmarks";
 import TweetsState from "./context/tweetContext/TweetsState";
 // other stuff
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import "../node_modules/bootstrap/dist/css/bootstrap.css";
-import "../node_modules/bootstrap/dist/js/bootstrap";
 
 function App() {
   return (
